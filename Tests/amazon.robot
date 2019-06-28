@@ -22,5 +22,4 @@ Guest must sign in
     wait until page contains  Back to results
     click button  id=add-to-cart-button
     wait until page contains  Added to Cart
-
     close browser
